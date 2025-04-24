@@ -5,8 +5,6 @@ samsungacr.com
 tvinteractive.tv
 braze.com
 logs.roku.com
-scribe.logs.roku.com
-giga.logs.roku.com
 signal.pod1.avatar.ext.hp.com
 media-amc-0.hostedcloudvideo.com
 ftps.hostedcloudvideo.com
@@ -24,7 +22,7 @@ mfadsrvr.com
 samsungcloudsolution.com
 samsungadhub.com
 samsungads.com
-api-hub.samsungyosemite.com
+samsungyosemite.com
 samsungosp.com
 az43064.vo.msecnd.net
 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
@@ -41,11 +39,7 @@ internetat.tv
 samsungosp.com
 samsungqbe.com
 i-stream.pl
-lcprd1.samsungcloudsolution.net
-lcprd2.samsungcloudsolution.net
-log-1.samsungacr.com
-log-2.samsungacr.com
-log-3.samsungacr.com
+samsungacr.com
 multiscreen.samsung.com
 ns11.whois.co.kr
 openapi.samsung.com
